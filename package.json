@@ -1,7 +1,7 @@
 {
-  "name": "mk-app-lsztemplatelist",
-  "version": "1.0.1",
-  "description": "mk-app-lsztemplatelist",
+  "name": "complex-table",
+  "version": "1.0.0",
+  "description": "complex-table",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengzhike/mk-app-lszTemplateList.git"
+    "url": "git+https://github.com/fengzhike/complex-table.git"
   },
   "author": "269596458@qq.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fengzhike/mk-app-lszTemplateList/issues"
+    "url": "https://github.com/fengzhike/complex-table/issues"
   },
-  "homepage": "https://github.com/fengzhike/mk-app-lszTemplateList#readme",
+  "homepage": "https://github.com/fengzhike/complex-table#readme",
   "dependencies": {}
 }
