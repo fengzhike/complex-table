@@ -1,0 +1,23 @@
+{
+  "name": "mk-app-lsztemplatelist",
+  "version": "1.0.1",
+  "description": "mk-app-lsztemplatelist",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzhike/mk-app-lszTemplateList.git"
+  },
+  "author": "269596458@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzhike/mk-app-lszTemplateList/issues"
+  },
+  "homepage": "https://github.com/fengzhike/mk-app-lszTemplateList#readme",
+  "dependencies": {}
+}
